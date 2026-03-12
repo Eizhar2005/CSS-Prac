@@ -1,0 +1,29 @@
+*{
+
+margin: 0;
+padding: 0;
+color: aliceblue;
+}
+
+#navbar{
+
+height: 60px;
+background-color: rgb(34, 34, 34);
+}
+#logo{
+ color: #f08804;
+    font-size: 25px;
+}
+button{
+
+    color: #f08804;
+}
+#logo{
+    margin-right: 500px;
+}
+.navlink{
+    margin-right: 200px;
+    text-decoration: none;
+
+
+}

@@ -1,0 +1,18 @@
+div{
+    height: 100px;
+    background-color: aqua;
+    width: fit-content;
+    border-width: 10px;
+    border-style: double;
+    border-color: rgb(0, 70, 70);
+    border: 2px, solid red;
+    border-radius: 20px;
+    padding: 10px;
+    margin-bottom: 50px;
+}
+h1{
+
+    width: fit-content;
+    height: 50px;
+ text-align: center;
+}
