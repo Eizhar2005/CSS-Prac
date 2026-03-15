@@ -13,6 +13,7 @@ P {
 button {
   color: rgb(255, 255, 255);
   background-color: rgb(4, 0, 245);
+  display: block;
 }
 
 body {
@@ -55,4 +56,15 @@ a {
     "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans",
     Arial, sans-serif;
   font-size: 30px;
+  background-color: aqua;
+  display: inline;
+}
+div{
+width: 100px;
+height: 100px;
+margin: 25px;
+display: inline-block;
+padding: 25px;
+
+
 }

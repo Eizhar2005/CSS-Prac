@@ -1,0 +1,46 @@
+
+*{margin: 0;
+padding: 0;
+color: rgb(255, 255, 255);
+}
+
+#navbar{
+
+height: 60px;
+background-color: rgb(34, 34, 34);
+}
+#logo{
+ color: #f08804;
+    font-size: 25px;
+}
+button{
+
+    color: #f08804;
+}
+#logo{
+    margin-right: 500px;
+}
+.navlink{
+    margin-right: 200px;
+    text-decoration: none;
+
+
+}
+
+footer{
+    background-color: rgb(34, 34, 34);
+    text-align: center;
+}
+
+#content{
+    height: 1200px;
+}
+
+.contentbox{
+    height: 100px;
+    width: 100px;
+    border: #f08804;
+    display: inline-block;
+}
+
+
