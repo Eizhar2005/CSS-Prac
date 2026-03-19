@@ -34,7 +34,6 @@ height: 100px;
 #b2{
 
     position: relative;
-    background-color: green;
     z-index: 1;
 
     
@@ -52,4 +51,6 @@ height: 100px;
     top: 50;
     width: 100px;
     right: 20px;
+    background-image: url("audi.jpg");
+    background-size: cover;
 }
