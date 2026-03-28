@@ -1,0 +1,31 @@
+div{
+    background-color: lightblue;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    position: relative;
+    top: 500px;
+    left: 500px;
+    animation-name: coloranimation;
+animation-duration: 5s;
+/* animation-timing-function: ; */
+animation-delay: 0s;
+animation-iteration-count: infinite;
+border-radius: 50%;
+ANIMATION-DIRECTION: ALTERNATE;
+}
+
+@keyframes coloranimation{
+    from{
+        background-color: lightblue;
+    }
+    to{
+        background-color: lightcoral;
+    }
+    FROM{
+        left: 0px;
+    }
+    TO{
+        left: 1000px;
+    }
+}

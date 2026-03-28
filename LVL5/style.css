@@ -12,14 +12,20 @@ transform: rotate(45deg);
 position: relative;
 top: 100px;
 left: 100px;
+
 }
 
+
 div:hover{
-    background-color: lightcoral;
+    
     font-size: larger;
     transform: rotate(270deg);
     transform: scale(2, 2);
+    transform: translateX(-200px);
+    transform: skew(500deg);
 }
+
+
 div:active{
     background-color: lightgreen;
 }

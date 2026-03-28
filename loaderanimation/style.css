@@ -1,0 +1,18 @@
+.loader{
+
+width: 100px;
+height: 100px;
+border-radius: 50%;
+border: rgba(248, 0, 0, 0.1) solid 10px;
+border-top: 10px solid #e60f0f;
+animation: animate 1s linear infinite;
+}
+
+@keyframes animate{
+0%{
+    transform: rotate(0deg);
+}
+100%{
+    transform: rotate(360deg);
+}
+}
